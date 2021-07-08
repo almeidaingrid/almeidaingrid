@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @almeidaingrid
-- 👀 I’m interested in ..back-end
+- 👀 I’m interested in ..back-end e front-end
 - 🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on  back-end
 - 📫 How to reach me  https://github.com/almeidaingrid/almeidaingrid.git
